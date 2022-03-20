@@ -1,11 +1,10 @@
-## jupiternootbook
+## Jupiternootbook
 
 This is example help you to undertsand the basic Data analysis using python 
 
-## intallation 
+## Intallation 
 
 #### JupyterLab
-
 Install JupyterLab with pip:
 ```
 pip install jupyterlab
@@ -15,9 +14,9 @@ Note: If you install JupyterLab with conda or mamba, we recommend using the cond
 Once installed, launch JupyterLab with:
 ```
 jupyter-lab
-Jupyter Notebook
 ```
-#### Install the classic Jupyter Notebook with:
+### Jupyter Notebook
+Install the classic Jupyter Notebook with:
 ```
 pip install notebook
 ```
@@ -29,7 +28,6 @@ Install Voilà with:
 ```
 pip install voila
 ```
-
 #### other required modules
 ```
 pip install lxml
