@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df=pd.read_csv("Book1.csv")
+df=pd.read_csv("regression.csv")
 df
 
 df.describe()
