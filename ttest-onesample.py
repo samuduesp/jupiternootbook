@@ -1,6 +1,6 @@
 from scipy import stats as st
 from bioinfokit.analys import get_data
-
+import pandas as pd
 
 df=pd.read_csv("Book1.csv") 
 # load dataset as pandas dataframe

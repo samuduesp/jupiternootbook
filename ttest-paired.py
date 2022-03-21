@@ -1,6 +1,6 @@
 # using scipy
 from bioinfokit.analys import get_data, stat
-
+import pandas as pd
 df=pd.read_csv("Book1.csv") 
 # paired t-test
 
